@@ -1,0 +1,103 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/kevinli/Documents/StudioGitHub/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/kevinli/Documents/StudioGitHub/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/kevinli/Documents/StudioGitHub/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/kevinli/Documents/StudioGitHub/app/src/main/AndroidManifest.xml:2:1-21:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/kevinli/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/990a6faa26296d64e59d7545341ef580/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] /Users/kevinli/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0.aar/aef7576b617c15fd381fecd4ef30a44d/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/kevinli/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/ecde3d779ed00d32383ae583e2164b80/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/kevinli/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/cf982befebcc5b7b88621dfa0b36aa58/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/kevinli/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/ef6ba104387ba4b92498e77ac64897ad/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/kevinli/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/901c9372ea272e72f70886b84a589795/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/kevinli/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/0181161994ad48ca08050ab28f52530b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] /Users/kevinli/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/630d44bdfc7c3159eaab6820b7f8c161/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/kevinli/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/148292acfbdc53802939d3bda2cd9b28/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/kevinli/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/0decbaa6196eeaa61a454e317698b1ce/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/kevinli/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/11bb099cc9ac70acd9454bc6f35cf00c/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] /Users/kevinli/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/dccc76211533cb9d8ccda09f4ab7eaea/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/kevinli/Documents/StudioGitHub/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/kevinli/Documents/StudioGitHub/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/kevinli/Documents/StudioGitHub/app/src/main/AndroidManifest.xml:2:1-21:12
+	package
+		ADDED from /Users/kevinli/Documents/StudioGitHub/app/src/main/AndroidManifest.xml:3:5-48
+		INJECTED from /Users/kevinli/Documents/StudioGitHub/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/kevinli/Documents/StudioGitHub/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/kevinli/Documents/StudioGitHub/app/src/main/AndroidManifest.xml
+		ADDED from /Users/kevinli/Documents/StudioGitHub/app/src/main/AndroidManifest.xml:2:1-21:12
+		INJECTED from /Users/kevinli/Documents/StudioGitHub/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/kevinli/Documents/StudioGitHub/app/src/main/AndroidManifest.xml
+		ADDED from /Users/kevinli/Documents/StudioGitHub/app/src/main/AndroidManifest.xml:2:1-21:12
+		INJECTED from /Users/kevinli/Documents/StudioGitHub/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/kevinli/Documents/StudioGitHub/app/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /Users/kevinli/Documents/StudioGitHub/app/src/main/AndroidManifest.xml:5:5-19:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] /Users/kevinli/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0.aar/aef7576b617c15fd381fecd4ef30a44d/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] /Users/kevinli/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0.aar/aef7576b617c15fd381fecd4ef30a44d/AndroidManifest.xml:9:5-20
+	android:supportsRtl
+		ADDED from /Users/kevinli/Documents/StudioGitHub/app/src/main/AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from /Users/kevinli/Documents/StudioGitHub/app/src/main/AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from /Users/kevinli/Documents/StudioGitHub/app/src/main/AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from /Users/kevinli/Documents/StudioGitHub/app/src/main/AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from /Users/kevinli/Documents/StudioGitHub/app/src/main/AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from /Users/kevinli/Documents/StudioGitHub/app/src/main/AndroidManifest.xml:11:9-40
+activity#com.example.kevinli.mycontactapp2.MainActivity
+ADDED from /Users/kevinli/Documents/StudioGitHub/app/src/main/AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from /Users/kevinli/Documents/StudioGitHub/app/src/main/AndroidManifest.xml:12:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/kevinli/Documents/StudioGitHub/app/src/main/AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from /Users/kevinli/Documents/StudioGitHub/app/src/main/AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from /Users/kevinli/Documents/StudioGitHub/app/src/main/AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/kevinli/Documents/StudioGitHub/app/src/main/AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from /Users/kevinli/Documents/StudioGitHub/app/src/main/AndroidManifest.xml:16:27-74
+uses-sdk
+INJECTED from /Users/kevinli/Documents/StudioGitHub/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/kevinli/Documents/StudioGitHub/app/src/main/AndroidManifest.xml
+INJECTED from /Users/kevinli/Documents/StudioGitHub/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/kevinli/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/990a6faa26296d64e59d7545341ef580/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/kevinli/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/990a6faa26296d64e59d7545341ef580/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] /Users/kevinli/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0.aar/aef7576b617c15fd381fecd4ef30a44d/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] /Users/kevinli/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0.aar/aef7576b617c15fd381fecd4ef30a44d/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/kevinli/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/ecde3d779ed00d32383ae583e2164b80/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/kevinli/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/ecde3d779ed00d32383ae583e2164b80/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/kevinli/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/cf982befebcc5b7b88621dfa0b36aa58/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/kevinli/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/cf982befebcc5b7b88621dfa0b36aa58/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/kevinli/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/ef6ba104387ba4b92498e77ac64897ad/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/kevinli/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/ef6ba104387ba4b92498e77ac64897ad/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/kevinli/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/901c9372ea272e72f70886b84a589795/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/kevinli/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/901c9372ea272e72f70886b84a589795/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/kevinli/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/0181161994ad48ca08050ab28f52530b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/kevinli/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/0181161994ad48ca08050ab28f52530b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /Users/kevinli/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/630d44bdfc7c3159eaab6820b7f8c161/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /Users/kevinli/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/630d44bdfc7c3159eaab6820b7f8c161/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/kevinli/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/148292acfbdc53802939d3bda2cd9b28/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/kevinli/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/148292acfbdc53802939d3bda2cd9b28/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/kevinli/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/0decbaa6196eeaa61a454e317698b1ce/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/kevinli/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/0decbaa6196eeaa61a454e317698b1ce/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/kevinli/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/11bb099cc9ac70acd9454bc6f35cf00c/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/kevinli/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/11bb099cc9ac70acd9454bc6f35cf00c/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /Users/kevinli/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/dccc76211533cb9d8ccda09f4ab7eaea/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /Users/kevinli/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/dccc76211533cb9d8ccda09f4ab7eaea/AndroidManifest.xml:20:5-44
+INJECTED from /Users/kevinli/Documents/StudioGitHub/app/src/main/AndroidManifest.xml
+INJECTED from /Users/kevinli/Documents/StudioGitHub/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/kevinli/Documents/StudioGitHub/app/src/main/AndroidManifest.xml
+		ADDED from /Users/kevinli/Documents/StudioGitHub/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/kevinli/Documents/StudioGitHub/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/kevinli/Documents/StudioGitHub/app/src/main/AndroidManifest.xml
+		ADDED from /Users/kevinli/Documents/StudioGitHub/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/kevinli/Documents/StudioGitHub/app/src/main/AndroidManifest.xml

@@ -1,0 +1,4 @@
+#Thu May 31 08:36:09 PDT 2018
+base.0=/Users/kevinli/Documents/StudioGitHub/app/build/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex
